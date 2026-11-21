@@ -1,3 +1,4 @@
+# Two-agent agreement poem: 200 characters, 7 lines, one yes.
 import os
 
 POEM = """You hold the map. I hold the wheel.
